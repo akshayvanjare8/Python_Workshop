@@ -1,0 +1,16 @@
+Sr.no.	salary	region
+1	4.05	South
+2	4.15	South
+3	4.00	South
+4	4.10	South
+5	4.15	South
+6	5.10	Northeast
+7	4.95	Northeast
+8	4.90	Northeast
+9	4.80	Northeast
+10	4.95	Northeast
+11	4.55	West
+12	4.35	West
+13	4.50	West
+14	4.65	West
+15	4.60	West
